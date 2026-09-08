@@ -341,6 +341,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 ### 🔒 <a name="security"></a>Security
 
 - [Promptguard](https://mcp.glc-rag.hu/guide/promptguard) `https://mcp.glc-rag.hu/mcp`
+  [![Promptguard MCP connector](https://glama.ai/mcp/connectors/io.github.glc-rag/geo-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.glc-rag/geo-mcp)
   🔑 - Layered prompt-injection checks for LLM hosts; 100 welcome credits on signup.
 - [Semgrep](https://semgrep.dev) `https://mcp.semgrep.ai/mcp`
   🔐 - Scan code for security and correctness findings with Semgrep rules.
